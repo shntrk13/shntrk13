@@ -2,19 +2,20 @@
 
 ### 🚀 Bilgisayar Mühendisliği 1. Sınıf Öğrencisiyim
 
-Şu an algoritmalar, veri yapıları ve temel programlama mantığı üzerine kendimi geliştiriyorum.
+Akademik olarak Java üzerine yoğunlaşırken, kişisel gelişimimde modern web teknolojileri ile projeler üretiyorum.
 
 - 🔭 Şu an üzerinde çalıştığım konu: **Java Programlama ve Algoritmalar**
-- 🌱 Öğrenmeye devam ettiklerim: ****
+- 🌱 Öğrenmeye devam ettiklerim: **React ve Java**
 - 💬 Bana şunlar hakkında soru sorabilirsin: **Başlangıç seviye kodlama ve üniversite hayatı**
-- 📫 Bana ulaşın: **[E-posta Adresin]**
+- 📫 Bana ulaşın: **ssahanturk13@gmail.com**
 
 ### 🛠 Kullandığım Teknolojiler ve Araçlar
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+| Alan | Teknolojiler |
+| :--- | :--- |
+| **Diller** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) |
+| **Web Temelleri** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 ---
 
 ### 📊 GitHub İstatistiklerim
-![Senin Kullanıcı Adın's GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical)
+![shntrk13's GitHub stats](https://github-readme-stats.vercel.app/api?username=shntrk13&show_icons=true&theme=radical)
