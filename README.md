@@ -1,6 +1,6 @@
 # Selam! Ben Selma 👋
 
-### 🚀 Bilgisayar Mühendisliği 1. Sınıf Öğrencisiyim
+### 🚀 Bilgisayar Mühendisliği 2. Sınıf Öğrencisiyim
 
 Akademik olarak Java üzerine yoğunlaşırken, kişisel gelişimimde modern web teknolojileri ile projeler üretiyorum.
 
