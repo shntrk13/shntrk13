@@ -5,7 +5,7 @@
 Akademik olarak Java üzerine yoğunlaşırken, kişisel gelişimimde modern web teknolojileri ile projeler üretiyorum.
 
 - 🔭 Şu an üzerinde çalıştığım konu: **Java Programlama ve Algoritmalar**
-- 🌱 Öğrenmeye devam ettiklerim: **React ve Java**
+- 🌱 Öğrenmeye devam ettiklerim: **Python,React ve Java**
 - 💬 Bana şunlar hakkında soru sorabilirsin: **Başlangıç seviye kodlama ve üniversite hayatı**
 - 📫 Bana ulaşın: **ssahanturk13@gmail.com**
 
