@@ -2,7 +2,7 @@
 
 ### 🚀 Bilgisayar Mühendisliği 2. Sınıf Öğrencisiyim
 
-Akademik olarak Java üzerine yoğunlaşırken, kişisel gelişimimde modern web teknolojileri ile projeler üretiyorum.
+Akademik olarak Java üzerine yoğunlaşırken, kişisel gelişimimde Python ile projeler üretiyorum.
 
 - 🔭 Şu an üzerinde çalıştığım konu: **Java Programlama ve Algoritmalar**
 - 🌱 Öğrenmeye devam ettiklerim: **Python,React ve Java**
