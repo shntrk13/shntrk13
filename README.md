@@ -2,10 +2,10 @@
 
 ### 🚀 Bilgisayar Mühendisliği 2. Sınıf Öğrencisiyim
 
-Akademik olarak Java üzerine yoğunlaşırken, kişisel gelişimimde Python ile projeler üretiyorum.
+Akademik olarak C++ ve C üzerine yoğunlaşırken, kişisel gelişimimde Python ile projeler üretiyorum.
 
-- 🔭 Şu an üzerinde çalıştığım konu: **Java Programlama ve Algoritmalar**
-- 🌱 Öğrenmeye devam ettiklerim: **Python,React ve Java**
+- 🔭 Şu an üzerinde çalıştığım konu: **Python Programlama ve Algoritmalar**
+- 🌱 Öğrenmeye devam ettiklerim: **Python,React,Java,C++ ve C**
 - 💬 Bana şunlar hakkında soru sorabilirsin: **Başlangıç seviye kodlama ve üniversite hayatı**
 - 📫 Bana ulaşın: **ssahanturk13@gmail.com**
 
